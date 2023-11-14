@@ -1,2 +1,3 @@
 # personal
-first repository
+first repository.
+Author - Mir Omer
